@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=240&color=0:0D0D0D,100:F7C600&text=MOHSIN%20RIZVI&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=Flutter%20Developer%20•%20Cyberpunk%20UI%20Designer&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,100:38BDF8&text=MOHSIN%20RIZVI&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20UI%20Engineer&descAlignY=58&descSize=20&animation=fadeIn"/>
 
-<br><br>
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3500&pause=1000&color=F7C600&center=true&vCenter=true&width=750&lines=Building+Premium+Flutter+Experiences;Cyberpunk+UI+Designer;Full+Stack+Developer;Creating+Modern+Digital+Interfaces"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Clean+Flutter+Applications;Designing+Modern+Mobile+Interfaces;Creating+Scalable+Digital+Products;Focused+on+Performance+and+User+Experience"/>
 
 </div>
 
@@ -12,13 +12,14 @@
 
 <div align="center">
 
-## ABOUT
+## About
 
-Minimalist developer focused on building premium Flutter applications, futuristic UI systems and scalable digital experiences.
+Flutter developer focused on building clean, scalable and visually polished mobile applications.
+I work with modern UI systems, Firebase, backend integrations and product-focused app experiences.
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
@@ -26,34 +27,32 @@ Minimalist developer focused on building premium Flutter applications, futuristi
 <tr>
 <td align="center" width="33%">
 
-### Frontend
+### Mobile
 
 Flutter
-React
-Next.js
-Three.js
-
-</td>
-
-<td align="center" width="33%">
-
-### Backend
-
-Node.js
+Dart
 Firebase
-MongoDB
-MySQL
+Android Studio
 
 </td>
-
 <td align="center" width="33%">
 
-### Design
+### Web & Backend
+
+JavaScript
+TypeScript
+React
+Node.js
+
+</td>
+<td align="center" width="33%">
+
+### Design & Tools
 
 Figma
-Gaming UI
-Glassmorphism
-Cyberpunk UX
+Git
+GitHub
+VS Code
 
 </td>
 </tr>
@@ -65,11 +64,9 @@ Cyberpunk UX
 
 <div align="center">
 
-# TECH STACK
+## Tech Stack
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,nodejs,firebase,mongodb,mysql,js,ts,python,threejs,figma,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,threejs,figma,git,github,vscode,linux&theme=dark"/>
 
 </div>
 
@@ -77,31 +74,26 @@ Cyberpunk UX
 
 <div align="center">
 
-# FEATURED UI WORK
+## Featured UI Direction
 
 <table>
 <tr>
+<td align="center" width="50%">
 
-<td align="center">
-
-<img src="https://cdn.dribbble.com/users/1615584/screenshots/14224095/media/6dc6d5e5ebf1f4f9a11a7fdbf8d7ef75.gif" width="260"/>
-
-<br><br>
-
-### Cyberpunk Dashboard
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SyedMohsinrizvi&repo=SyedMohsinrizvi&theme=github_dark&hide_border=true&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8&bg_color=020617"/>
 
 </td>
+<td align="center" width="50%">
 
-<td align="center">
+### Interface Focus
 
-<img src="https://cdn.dribbble.com/users/1787323/screenshots/16573436/media/f15bc8f67ff26d61ef1f8f6d24dfe4cb.gif" width="260"/>
-
-<br><br>
-
-### Glassmorphism Experience
+Clean mobile dashboards
+Glassmorphism layouts
+Gaming inspired interfaces
+Responsive app screens
+Premium visual systems
 
 </td>
-
 </tr>
 </table>
 
@@ -111,19 +103,11 @@ Cyberpunk UX
 
 <div align="center">
 
-# GITHUB ANALYTICS
+## GitHub Analytics
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SyedMohsinrizvi&show_icons=true&theme=transparent&title_color=F7C600&text_color=ffffff&icon_color=F7C600&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SyedMohsinrizvi&show_icons=true&theme=github_dark&hide_border=true&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8&bg_color=020617"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMohsinrizvi&layout=compact&theme=transparent&title_color=F7C600&text_color=ffffff&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SyedMohsinrizvi&theme=transparent&hide_border=true&ring=F7C600&fire=F7C600&currStreakLabel=F7C600&sideLabels=ffffff&dates=999999"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMohsinrizvi&layout=compact&theme=github_dark&hide_border=true&title_color=38BDF8&text_color=CBD5E1&bg_color=020617"/>
 
 </div>
 
@@ -131,14 +115,34 @@ Cyberpunk UX
 
 <div align="center">
 
-## CONNECT
+<img src="https://streak-stats.demolab.com?user=SyedMohsinrizvi&theme=dark&hide_border=true&background=020617&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## Connect
 
 <a href="mailto:mohsinrixvi@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
 </a>
 
 <a href="https://github.com/SyedMohsinrizvi">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+</a>
+
+<a href="https://facebook.com/SyedM0hsinrizvi">
+<img src="https://img.shields.io/badge/Facebook-020617?style=for-the-badge&logo=facebook&logoColor=38BDF8"/>
+</a>
+
+<a href="https://instagram.com/SyedM0hsinRizvi">
+<img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=38BDF8"/>
+</a>
+
+<a href="https://x.com/M0hsinRizvi">
+<img src="https://img.shields.io/badge/X-020617?style=for-the-badge&logo=x&logoColor=38BDF8"/>
 </a>
 
 </div>
@@ -147,10 +151,10 @@ Cyberpunk UX
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SyedMohsinrizvi&label=PROFILE+VIEWS&color=F7C600&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=SyedMohsinrizvi&label=Profile%20Views&color=38BDF8&style=for-the-badge"/>
 
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:F7C600,100:0D0D0D&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:38BDF8,100:020617&section=footer"/>
