@@ -1,8 +1,8 @@
 <div align="center">
 
-# ⚡ MOHSIN RIZVI ⚡
+#  MOHSIN RIZVI 
 
-### 🚀 Flutter Developer | Full Stack Developer | UI/UX Enthusiast
+###  Flutter Developer | Full Stack Developer | UI/UX Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Flutter+Developer;Full+Stack+Developer;Three.js+Enthusiast;Building+Modern+Applications;Always+Learning+New+Technologies" />
 
@@ -16,12 +16,12 @@
 
 ## 🖤 About Me
 
-* 💛 Flutter Expert
-* 🖤 Full Stack Developer
-* 💛 Firebase & Backend Lover
-* 🖤 Three.js UI Explorer
-* 💛 Passionate About Clean UI
-* 🖤 Always Learning New Tech
+*  Flutter Expert
+*  Full Stack Developer
+*  Firebase & Backend Lover
+*  Three.js UI Explorer
+*  Passionate About Clean UI
+*  Always Learning New Tech
 
 </td>
 
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-# ⚡ TECH STACK ⚡
+#  TECH STACK 
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,js,ts,nodejs,react,nextjs,threejs,mongodb,mysql,python,java,c,cpp,php,git,github,linux,vscode,figma&theme=dark"/>
 
@@ -47,7 +47,7 @@
 
 <div align="center">
 
-# 🔥 GITHUB STREAK 🔥
+# GITHUB STREAK 
 
 <img src="https://streak-stats.demolab.com?user=SyedMohsinrizvi&theme=highcontrast&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&hide_border=true"/>
 
@@ -57,7 +57,7 @@
 
 <div align="center">
 
-# 🏆 TROPHIES 🏆
+# TROPHIES 
 
 <img src="https://github-profile-trophy.vercel.app/?username=SyedMohsinrizvi&theme=onedark&no-frame=true&row=1&column=6"/>
 
