@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,100:434343&text=MOHSIN%20RIZVI&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20UI%20Engineer&descAlignY=58&descSize=20&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,100:434343&text=MOHSIN%20RIZVI&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20UI%20Engineer&descAlignY=60&descSize=24&animation=fadeIn"/>
 
 <br><br>
 
-<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=1200&lines=Building+Clean+Flutter+Applications;Designing+Modern+Mobile+Interfaces;Creating+Scalable+Digital+Products;Focused+on+Performance+and+User+Experience"/>
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=true&width=1400&height=80&lines=Building+Clean+Flutter+Applications;Designing+Modern+Mobile+Interfaces;Creating+Scalable+Digital+Products;Focused+on+Performance+and+User+Experience"/>
 
 </div>
 
@@ -145,9 +145,9 @@ Dark UI, glassmorphism and responsive application interfaces.
 
 # GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SyedMohsinrizvi&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
+<img height="190em" width="49%" src="https://github-readme-stats.vercel.app/api?username=SyedMohsinrizvi&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMohsinrizvi&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF"/>
+<img height="190em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMohsinrizvi&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF"/>
 
 </div>
 
@@ -197,4 +197,4 @@ Dark UI, glassmorphism and responsive application interfaces.
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:434343,100:000000"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:434343,100:000000"/>
