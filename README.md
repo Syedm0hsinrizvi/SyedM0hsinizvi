@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,14,18,20,24&text=MOHSIN%20RIZVI&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20UI%20Engineer&descAlignY=58&descSize=20&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,100:434343&text=MOHSIN%20RIZVI&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20UI%20Engineer&descAlignY=58&descSize=20&animation=fadeIn"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=950&lines=Building+Clean+Flutter+Applications;Designing+Modern+Mobile+Interfaces;Creating+Scalable+Digital+Products;Focused+on+Performance+and+User+Experience"/>
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=1200&lines=Building+Clean+Flutter+Applications;Designing+Modern+Mobile+Interfaces;Creating+Scalable+Digital+Products;Focused+on+Performance+and+User+Experience"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-## About
+# About
 
 Flutter developer focused on building clean, scalable and visually polished mobile applications.
 I work with modern UI systems, Firebase, backend integrations and product-focused app experiences.
@@ -23,11 +23,12 @@ I work with modern UI systems, Firebase, backend integrations and product-focuse
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
+
 <td align="center" width="33%">
 
-### Mobile Development
+## Mobile Development
 
 Flutter
 Dart
@@ -38,7 +39,7 @@ Android Studio
 
 <td align="center" width="33%">
 
-### Web & Backend
+## Web & Backend
 
 JavaScript
 TypeScript
@@ -49,7 +50,7 @@ Node.js
 
 <td align="center" width="33%">
 
-### Design & Tools
+## Design & Tools
 
 Figma
 Git
@@ -57,6 +58,7 @@ GitHub
 VS Code
 
 </td>
+
 </tr>
 </table>
 
@@ -66,31 +68,11 @@ VS Code
 
 <div align="center">
 
-## Tech Stack
+# Tech Stack
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,threejs,figma,git,github,vscode,linux&theme=dark"/>
+<br>
 
-</div>
-
----
-
-<div align="center">
-
-## Skills Badges
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,figma,vscode"/>
-
-</div>
-
-<div align="center">
-
-## Technology Badges
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+<img width="100%" src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,threejs,figma,git,github,vscode,linux&theme=dark"/>
 
 </div>
 
@@ -98,13 +80,31 @@ VS Code
 
 <div align="center">
 
-## Interface Focus
+# Skills
 
-<table>
+<img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# Interface Focus
+
+<table width="100%">
 <tr>
+
 <td align="center" width="25%">
 
-### Clean Apps
+## Clean Apps
 
 Modern mobile apps with polished layouts and smooth user experience.
 
@@ -112,27 +112,28 @@ Modern mobile apps with polished layouts and smooth user experience.
 
 <td align="center" width="25%">
 
-### UI Systems
+## UI Systems
 
-Reusable design systems, consistent components and scalable structure.
-
-</td>
-
-<td align="center" width="25%">
-
-### Firebase Apps
-
-Authentication, database, storage and backend integrations.
+Reusable design systems, scalable architecture and premium styling.
 
 </td>
 
 <td align="center" width="25%">
 
-### Modern Design
+## Firebase Apps
 
-Glassmorphism, dark UI, responsive screens and premium interfaces.
+Authentication, database, backend services and integrations.
 
 </td>
+
+<td align="center" width="25%">
+
+## Modern Design
+
+Dark UI, glassmorphism and responsive application interfaces.
+
+</td>
+
 </tr>
 </table>
 
@@ -142,19 +143,11 @@ Glassmorphism, dark UI, responsive screens and premium interfaces.
 
 <div align="center">
 
-## GitHub Analytics
+# GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SyedMohsinrizvi&show_icons=true&theme=github_dark&hide_border=true&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA&bg_color=0F172A"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SyedMohsinrizvi&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMohsinrizvi&layout=compact&theme=github_dark&hide_border=true&title_color=60A5FA&text_color=CBD5E1&bg_color=0F172A"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SyedMohsinrizvi&theme=dark&hide_border=true&background=0F172A&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMohsinrizvi&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF"/>
 
 </div>
 
@@ -162,26 +155,34 @@ Glassmorphism, dark UI, responsive screens and premium interfaces.
 
 <div align="center">
 
-## Connect
+<img width="100%" src="https://streak-stats.demolab.com?user=SyedMohsinrizvi&theme=transparent&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# Connect
 
 <a href="mailto:mohsinrixvi@gmail.com">
-<img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/SyedMohsinrizvi">
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://facebook.com/SyedM0hsinrizvi">
-<img src="https://img.shields.io/badge/Facebook-0F172A?style=for-the-badge&logo=facebook&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/SyedM0hsinRizvi">
-<img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://x.com/M0hsinRizvi">
-<img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </div>
@@ -190,10 +191,10 @@ Glassmorphism, dark UI, responsive screens and premium interfaces.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SyedMohsinrizvi&label=Profile%20Views&color=60A5FA&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SyedMohsinrizvi&label=PROFILE+VIEWS&color=black&style=for-the-badge"/>
 
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=24,20,18,14,12"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:434343,100:000000"/>
