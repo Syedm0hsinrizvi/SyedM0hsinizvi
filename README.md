@@ -29,9 +29,30 @@ Flutter • Firebase • Full Stack Development • UI Engineering • Modern Ap
 
 <div align="center">
 
-# Tech Arsenal
+# Tech Stack
 
 <img width="100%" src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,react,nextjs,nodejs,express,mongodb,mysql,python,threejs,figma,git,github,vscode,linux,cpp,c,java,kotlin,swift,php,rust,go&theme=dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# Professional Badges
+
+<img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
 
 </div>
 
@@ -106,6 +127,24 @@ Clean architecture, optimized rendering and scalable application structure.
 <div align="center">
 
 <img width="100%" src="https://streak-stats.demolab.com?user=SyedMohsinrizvi&theme=transparent&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# More Premium Widgets
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SyedMohsinrizvi&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SyedMohsinrizvi&theme=github_dark"/>
+
+<br><br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyedMohsinrizvi&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SyedMohsinrizvi&theme=github_dark&utcOffset=5"/>
 
 </div>
 
