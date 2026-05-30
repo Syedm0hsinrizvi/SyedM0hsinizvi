@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,100:434343&text=MOHSIN%20RIZVI&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20UI%20Engineer&descAlignY=60&descSize=24&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=0,1,2,3,4&text=MOHSIN%20RIZVI&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20UI%20Engineer&descAlignY=60&descSize=24&animation=fadeIn"/>
 
 <br><br>
 
@@ -191,10 +191,10 @@ Dark UI, glassmorphism and responsive application interfaces.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SyedMohsinrizvi&label=PROFILE+VIEWS&color=black&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SyedMohsinrizvi&label=PROFILE+VIEWS&color=000000&style=for-the-badge"/>
 
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:434343,100:000000"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=0,1,2,3,4"/>
