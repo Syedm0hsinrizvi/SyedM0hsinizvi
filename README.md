@@ -1,10 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=380&color=gradient&customColorList=0,1,2,3,4&text=MOHSIN%20RIZVI&fontColor=ffffff&fontSize=82&animation=scaleIn&fontAlignY=40&desc=Flutter%20Developer%20|%20Full%20Stack%20Developer%20|%20UI%20Engineer&descAlignY=65&descSize=28"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=420&color=gradient&customColorList=0,1,2,3,4&text=MOHSIN%20RIZVI&fontColor=ffffff&fontSize=88&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20|%20Full%20Stack%20Developer%20|%20UI%20Engineer&descAlignY=63&descSize=30"/>
 
 <br><br>
 
-<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=2800&pause=700&color=FFFFFF&center=true&vCenter=true&repeat=true&width=1600&height=90&lines=%3E+Building+Modern+Flutter+Experiences;%3E+Designing+Premium+Interfaces;%3E+Creating+Scalable+Applications;%3E+Focused+on+Clean+Architecture"/>
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=38&duration=2600&pause=600&color=FFFFFF&center=true&vCenter=true&repeat=true&width=1700&height=100&lines=%3E+npx+create-awesome-app;%3E+Building+Modern+Flutter+Experiences;%3E+Designing+Premium+Interfaces;%3E+Creating+Scalable+Applications;%3E+Focused+on+Clean+Architecture"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SyedMohsinrizvi&theme=algolia&no-frame=true&row=1&column=7&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -14,7 +18,10 @@
 
 # About Me
 
-Flutter developer focused on modern application development, scalable systems and premium UI experiences.
+Flutter developer focused on building premium mobile applications, scalable architectures and modern UI systems.
+
+I specialize in:
+Flutter • Firebase • Full Stack Development • UI Engineering • Modern App Architecture
 
 </div>
 
@@ -22,9 +29,9 @@ Flutter developer focused on modern application development, scalable systems an
 
 <div align="center">
 
-# Tech Stack
+# Tech Arsenal
 
-<img width="100%" src="https://skillicons.dev/icons?i=flutter,dart,firebase,react,nextjs,nodejs,mongodb,mysql,python,threejs,git,github,vscode,figma,linux&theme=dark"/>
+<img width="100%" src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,react,nextjs,nodejs,express,mongodb,mysql,python,threejs,figma,git,github,vscode,linux,cpp,c,java,kotlin,swift,php,rust,go&theme=dark"/>
 
 </div>
 
@@ -32,16 +39,16 @@ Flutter developer focused on modern application development, scalable systems an
 
 <div align="center">
 
-# Development Areas
+# Development Focus
 
 <table width="100%">
 <tr>
 
 <td align="center" width="25%">
 
-## Flutter Apps
+## Mobile Apps
 
-Cross platform mobile applications with smooth user experience.
+High performance Flutter applications with responsive interfaces and premium animations.
 
 </td>
 
@@ -49,7 +56,7 @@ Cross platform mobile applications with smooth user experience.
 
 ## Backend Systems
 
-Firebase, APIs and scalable backend integrations.
+REST APIs, Firebase services, authentication and scalable integrations.
 
 </td>
 
@@ -57,7 +64,7 @@ Firebase, APIs and scalable backend integrations.
 
 ## UI Engineering
 
-Modern responsive interfaces and design systems.
+Modern design systems, dark interfaces and futuristic user experiences.
 
 </td>
 
@@ -65,7 +72,7 @@ Modern responsive interfaces and design systems.
 
 ## Performance
 
-Optimized architecture and clean application structure.
+Clean architecture, optimized rendering and scalable application structure.
 
 </td>
 
@@ -80,9 +87,17 @@ Optimized architecture and clean application structure.
 
 # GitHub Analytics
 
-<img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=SyedMohsinrizvi&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
+<img height="210em" width="49%" src="https://github-readme-stats.vercel.app/api?username=SyedMohsinrizvi&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&rank_icon=github"/>
 
-<img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMohsinrizvi&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF"/>
+<img height="210em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMohsinrizvi&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SyedMohsinrizvi&theme=github-compact&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF"/>
 
 </div>
 
@@ -132,4 +147,4 @@ Optimized architecture and clean application structure.
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=180&section=footer&color=gradient&customColorList=0,1,2,3,4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&section=footer&color=gradient&customColorList=0,1,2,3,4"/>
