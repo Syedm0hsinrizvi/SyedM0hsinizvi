@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=360&color=gradient&customColorList=0,1,2,3,4&text=MOHSIN%20RIZVI&fontColor=ffffff&fontSize=78&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20|%20Full%20Stack%20Developer%20|%20UI%20Engineer&descAlignY=62&descSize=26"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=380&color=gradient&customColorList=0,1,2,3,4&text=MOHSIN%20RIZVI&fontColor=ffffff&fontSize=82&animation=scaleIn&fontAlignY=40&desc=Flutter%20Developer%20|%20Full%20Stack%20Developer%20|%20UI%20Engineer&descAlignY=65&descSize=28"/>
 
 <br><br>
 
-<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=true&width=1400&height=80&lines=Building+Clean+Flutter+Applications;Designing+Modern+Mobile+Interfaces;Creating+Scalable+Digital+Products;Focused+on+Performance+and+User+Experience"/>
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=2800&pause=700&color=FFFFFF&center=true&vCenter=true&repeat=true&width=1600&height=90&lines=%3E+Building+Modern+Flutter+Experiences;%3E+Designing+Premium+Interfaces;%3E+Creating+Scalable+Applications;%3E+Focused+on+Clean+Architecture"/>
 
 </div>
 
@@ -12,55 +12,9 @@
 
 <div align="center">
 
-# About
+# About Me
 
-Flutter developer focused on building clean, scalable and visually polished mobile applications.
-I work with modern UI systems, Firebase, backend integrations and product-focused app experiences.
-
-</div>
-
----
-
-<div align="center">
-
-<table width="100%">
-<tr>
-
-<td align="center" width="33%">
-
-## Mobile Development
-
-Flutter
-Dart
-Firebase
-Android Studio
-
-</td>
-
-<td align="center" width="33%">
-
-## Web & Backend
-
-JavaScript
-TypeScript
-React
-Node.js
-
-</td>
-
-<td align="center" width="33%">
-
-## Design & Tools
-
-Figma
-Git
-GitHub
-VS Code
-
-</td>
-
-</tr>
-</table>
+Flutter developer focused on modern application development, scalable systems and premium UI experiences.
 
 </div>
 
@@ -70,9 +24,7 @@ VS Code
 
 # Tech Stack
 
-<br>
-
-<img width="100%" src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,threejs,figma,git,github,vscode,linux&theme=dark"/>
+<img width="100%" src="https://skillicons.dev/icons?i=flutter,dart,firebase,react,nextjs,nodejs,mongodb,mysql,python,threejs,git,github,vscode,figma,linux&theme=dark"/>
 
 </div>
 
@@ -80,57 +32,40 @@ VS Code
 
 <div align="center">
 
-# Skills
-
-<img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-
-</div>
-
----
-
-<div align="center">
-
-# Interface Focus
+# Development Areas
 
 <table width="100%">
 <tr>
 
 <td align="center" width="25%">
 
-## Clean Apps
+## Flutter Apps
 
-Modern mobile apps with polished layouts and smooth user experience.
-
-</td>
-
-<td align="center" width="25%">
-
-## UI Systems
-
-Reusable design systems, scalable architecture and premium styling.
+Cross platform mobile applications with smooth user experience.
 
 </td>
 
 <td align="center" width="25%">
 
-## Firebase Apps
+## Backend Systems
 
-Authentication, database, backend services and integrations.
+Firebase, APIs and scalable backend integrations.
 
 </td>
 
 <td align="center" width="25%">
 
-## Modern Design
+## UI Engineering
 
-Dark UI, glassmorphism and responsive application interfaces.
+Modern responsive interfaces and design systems.
+
+</td>
+
+<td align="center" width="25%">
+
+## Performance
+
+Optimized architecture and clean application structure.
 
 </td>
 
@@ -145,9 +80,9 @@ Dark UI, glassmorphism and responsive application interfaces.
 
 # GitHub Analytics
 
-<img height="190em" width="49%" src="https://github-readme-stats.vercel.app/api?username=SyedMohsinrizvi&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
+<img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=SyedMohsinrizvi&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
 
-<img height="190em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMohsinrizvi&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF"/>
+<img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMohsinrizvi&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF"/>
 
 </div>
 
@@ -197,4 +132,4 @@ Dark UI, glassmorphism and responsive application interfaces.
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=0,1,2,3,4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=180&section=footer&color=gradient&customColorList=0,1,2,3,4"/>
