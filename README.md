@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=420&color=gradient&customColorList=0,1,2,3,4&text=MOHSIN%20RIZVI&fontColor=ffffff&fontSize=88&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20|%20Full%20Stack%20Developer%20|%20UI%20Engineer&descAlignY=63&descSize=30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=360&color=gradient&customColorList=0,1,2,3,4&text=MOHSIN%20RIZVI&fontColor=ffffff&fontSize=82&animation=fadeIn&fontAlignY=40&desc=Flutter%20Developer%20|%20Full%20Stack%20Developer%20|%20UI%20Engineer&descAlignY=63&descSize=28"/>
 
 <br><br>
 
-<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=38&duration=2600&pause=600&color=FFFFFF&center=true&vCenter=true&repeat=true&width=1700&height=100&lines=%3E+npx+create-awesome-app;%3E+Building+Modern+Flutter+Experiences;%3E+Designing+Premium+Interfaces;%3E+Creating+Scalable+Applications;%3E+Focused+on+Clean+Architecture"/>
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=3200&pause=800&color=FFFFFF&center=true&vCenter=true&repeat=true&width=1600&height=90&lines=%24+flutter+build+premium_apps;%24+design+modern_interfaces;%24+deploy+scalable_systems;%24+optimize+clean_architecture"/>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SyedMohsinrizvi&theme=algolia&no-frame=true&row=1&column=7&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SyedMohsinrizvi&theme=algolia&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -18,10 +18,7 @@
 
 # About Me
 
-Flutter developer focused on building premium mobile applications, scalable architectures and modern UI systems.
-
-I specialize in:
-Flutter • Firebase • Full Stack Development • UI Engineering • Modern App Architecture
+Flutter developer focused on building premium mobile applications, scalable systems and modern UI experiences.
 
 </div>
 
@@ -31,7 +28,7 @@ Flutter • Firebase • Full Stack Development • UI Engineering • Modern Ap
 
 # Tech Stack
 
-<img width="100%" src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,react,nextjs,nodejs,express,mongodb,mysql,python,threejs,figma,git,github,vscode,linux,cpp,c,java,kotlin,swift,php,rust,go&theme=dark"/>
+<img width="100%" src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,react,nextjs,nodejs,express,mongodb,mysql,python,threejs,cpp,c,java,kotlin,swift,php,rust,go,linux,git,github,vscode,figma&theme=dark"/>
 
 </div>
 
@@ -50,55 +47,7 @@ Flutter • Firebase • Full Stack Development • UI Engineering • Modern Ap
 <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-
-</div>
-
----
-
-<div align="center">
-
-# Development Focus
-
-<table width="100%">
-<tr>
-
-<td align="center" width="25%">
-
-## Mobile Apps
-
-High performance Flutter applications with responsive interfaces and premium animations.
-
-</td>
-
-<td align="center" width="25%">
-
-## Backend Systems
-
-REST APIs, Firebase services, authentication and scalable integrations.
-
-</td>
-
-<td align="center" width="25%">
-
-## UI Engineering
-
-Modern design systems, dark interfaces and futuristic user experiences.
-
-</td>
-
-<td align="center" width="25%">
-
-## Performance
-
-Clean architecture, optimized rendering and scalable application structure.
-
-</td>
-
-</tr>
-</table>
 
 </div>
 
@@ -108,7 +57,7 @@ Clean architecture, optimized rendering and scalable application structure.
 
 # GitHub Analytics
 
-<img height="210em" width="49%" src="https://github-readme-stats.vercel.app/api?username=SyedMohsinrizvi&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&rank_icon=github"/>
+<img height="210em" width="49%" src="https://github-readme-stats.vercel.app/api?username=SyedMohsinrizvi&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
 
 <img height="210em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMohsinrizvi&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF"/>
 
@@ -127,24 +76,6 @@ Clean architecture, optimized rendering and scalable application structure.
 <div align="center">
 
 <img width="100%" src="https://streak-stats.demolab.com?user=SyedMohsinrizvi&theme=transparent&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
-
-</div>
-
----
-
-<div align="center">
-
-# More Premium Widgets
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SyedMohsinrizvi&theme=github_dark"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SyedMohsinrizvi&theme=github_dark"/>
-
-<br><br>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyedMohsinrizvi&theme=github_dark"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SyedMohsinrizvi&theme=github_dark&utcOffset=5"/>
 
 </div>
 
@@ -186,4 +117,4 @@ Clean architecture, optimized rendering and scalable application structure.
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&section=footer&color=gradient&customColorList=0,1,2,3,4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=180&section=footer&color=gradient&customColorList=0,1,2,3,4"/>
